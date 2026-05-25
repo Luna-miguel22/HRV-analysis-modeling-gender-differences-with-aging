@@ -32,8 +32,7 @@ Included analyses:
 
 * Time-domain HRV metrics
 * Frequency-domain HRV metrics
-* Statistical feature extraction from NN intervals
-* Spectral HRV analysis
+
 
 ---
 
@@ -41,12 +40,9 @@ Included analyses:
 
 Extraction and analysis of **non-linear HRV metrics**.
 
-Included analyses:
-
 * Poincaré plot descriptors
 * Entropy-based metrics
-* Fractal and complexity measures
-* Non-linear dynamics analysis
+* Detrended fluctuation
 
 ---
 
@@ -86,7 +82,6 @@ Objectives:
 * Visualization of high-dimensional HRV data
 * Identification of clusters and hidden patterns
 * Exploration of age- and gender-related group separations
-* Non-linear representation of physiological data
 
 ---
 
@@ -97,8 +92,6 @@ Analysis of the relationship between **Heart Rate (HR)** and **Heart Rate Variab
 Included analyses:
 
 * Influence of HR on HRV metrics
-* Correlation studies
-* Physiological interpretation of HR-HRV interactions
 
 ---
 
@@ -111,7 +104,7 @@ Included variables:
 * Exercise hours
 * Body Mass Index (BMI)
 * Associations between lifestyle factors and HRV metrics
-* Statistical comparisons between activity groups
+* Statistical comparisons between activity groups, age and genders
 
 ---
 
